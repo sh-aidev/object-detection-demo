@@ -1,0 +1,10 @@
+https://download.pytorch.org/whl/cu118/torch-2.1.2%2Bcu118-cp310-cp310-linux_x86_64.whl
+https://download.pytorch.org/whl/cu118/torchvision-0.16.2%2Bcu118-cp310-cp310-linux_x86_64.whl
+fastapi[all]==0.110.0
+Pillow==9.5.0
+pyfiglet==1.0.2
+loguru==0.7.0
+toml==0.10.2
+gradio==4.21.0
+ultralytics==8.1.29
+python-dotenv==1.0.1
